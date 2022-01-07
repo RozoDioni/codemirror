@@ -1,0 +1,2 @@
+vendors tiene las classes de las librerias a usar por codemirror
+todas con namespace

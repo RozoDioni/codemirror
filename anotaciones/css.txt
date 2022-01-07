@@ -1,0 +1,11 @@
+﻿.LOG
+como hacer que los estilos de una hoja pasen a estilos en linea
+como guardar una seleccion de una pagina html con sus respectivos estilos css
+buscar animatecss
+libros de bootstrap
+cursos,guias,libreria actualizada con ejemplos
+05:01 p.m. 13/04/2020
+como trabajar con diferentes tipos de fuentes
+08:25 a.m. 27/06/2020
+-como colocar sangria en un parrafo 
+-propiedades css para formatear textos

@@ -1,0 +1,6 @@
+.LOG
+09:18 a.m. 26/06/2020
+-PROGRAMAS
+biblia con vue,ingles con vue,registros,glycons,app notas,codemirror para mi
+-librerias
+helpers,glycons,contexmenu

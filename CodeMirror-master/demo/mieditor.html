@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+	<html lang="es">
+	<head>
+			<meta charset="utf-8">
+			<title></title>
+
+			<!-- cargando estilos para el thema de codemirror -->
+			<link rel="stylesheet" href="../lib/codemirror.css">	<!-- libreria principal -->
+			<link rel="stylesheet" href="../theme/3024-night.css">
+			<link rel="stylesheet" href="../theme/eclipse.css">
+			<link rel="stylesheet" href="../theme/erlang-dark.css">
+			<link rel="stylesheet" href="../theme/monokai.css">
+			<link rel="stylesheet" href="../theme/night.css">
+			<link rel="stylesheet" href="../theme/rubyblue.css">
+			<link rel="stylesheet" href="../theme/the-matrix.css">
+			<!--display full screen  -->
+			<link rel="stylesheet" href="../addon/display/fullscreen.css">
+			<script src="../addon/display/fullscreen.js"></script>
+			<!--  -->
+			<link rel="stylesheet" type="text/css" href="css/personal.css">
+			<link src="http://127.0.0.1/utilitarios/css/normalize.css"></link>
+			<link rel="stylesheet" href="http://127.0.0.1/utilitarios/bootstrap/dist/css/bootstrap.min.css">
+            <!-- version de codemirror 5.1.1 -->
+            
+			<script src="../lib/codemirror.js"></script>
+			<script src="../mode/javascript/javascript.js"></script>
+			<!-- addon -->
+			<script src="../addon/edit/closebrackets.js"></script>
+			<script src="../addon/edit/closetag.js"></script>
+
+			<!-- estoy provando si jode mucho favor borrar-->
+			<script src="../addon/fold/xml-fold.js"></script>
+			<script src="../mode/xml/xml.js"></script>
+			<script src="../mode/css/css.js"></script>
+			<script src="../mode/htmlmixed/htmlmixed.js"></script>
+			<!---->
+
+		</head>
+	<body onload="codemirror()">
+		<nav>
+	<ul><li>Select a theme: 
+		<select onchange="selectTheme()" id="select">
+	    	<option selected>eclipse</option>
+	    	<option>3024-night</option>
+	    	<option>erlang-dark</option>
+	    	<option>monokai</option>
+	    	<option>night</option>
+	    	<option>rubyblue</option>
+	    	<option>the-matrix</option>
+		</select>
+		</li>
+		<li>pantalla completa:<button id="pantalla completa" onClic="">ctr-Q</button></li>
+		<li>separar pantalla: <button onclick="ventanaNueva(this)" class="btn btn-danger">ventana nueva</button></li>
+	</ul>
+	
+
+		<script>
+			var input = document.getElementById("select");
+  function selectTheme() {
+    var theme = input.options[input.selectedIndex].innerHTML;
+    editor.setOption("theme", theme);
+  }
+  var choice = document.location.search &&
+               decodeURIComponent(document.location.search.slice(1));
+  if (choice) {
+    input.value = choice;
+    editor.setOption("theme", choice);
+  }
+		</script>
+		</nav>
+		<div class="editor" id="codear" >
+			
+		<codigo id="codigostyle">
+			<textarea id="codigo"></textarea>
+		</codigo>
+		<iframe id="preview"></iframe>
+		</div>
+		<script src="js/script.js"></script><!--funciones personales javascript separadas para mantener el orden-->
+	</body>
+</html>

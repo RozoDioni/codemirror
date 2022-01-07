@@ -1,0 +1,23 @@
+.LOG
+
+h1>notas html en formato cencillo
+
+img>http://localhost:8000/imagenes/cpu.jpg
+
+9:56 a. m. 22/11/2018
+
+p> otro parrafo mas  
+
+h3> encabezado nivel 3
+
+p>enrealidad la app notas es solo para notas no deberia tener div pero en el futuro seria bueno incorporar otras etiquetas y un mejor rendimient
+
+12:00 p.m. 21/09/2019
+
+img>http://localhost:8000/imagenes/DIANI ROZO/dianik-5.JPG
+
+a>http://localhost:8000/imagenes/DIANI ROZO/dianik-5.JPG=imagendianik
+
+p>otro parrafo despues del link
+
+06:44 p.m. 18/10/2019

@@ -1,0 +1,15 @@
+{"favoritos":"./favoritos.php",
+"estudiosgaleria":"./htdocs/estudiosgaleria",
+"utilitarios":"./htdocs/utilitarios/",
+"registros":"./htdocs/registros",
+"javascript":"./htdocs/javascript/",
+"cine":"./htdocs/familia/dianik/cine",
+"svg":"./htdocs/svg",
+"index":"./htdocs/phpdoc/index.php",
+"ingles":"./htdocs/ingles/",
+"compartir":"./vendors/compartir",
+"javascript":"./htdocs/javascript/",
+"todos":"./ejemplos/todos",
+"biblia":"./htdocs/biblia",
+"htdocs":"./htdocs/"
+}

@@ -1,0 +1,192 @@
+.LOG
+
+date>10:19 a.m. 02/11/2013
+h3>buscar un curso de acentuacion
+
+date>07:50 a.m. 31/12/2013
+h3>buscar acropolis atena google sketchup
+
+date>09:46 p.m. 09/06/2015
+h3>clave buzon de voz 0392
+
+date>9:57 12/11/2017
+p>hacer mi editor code mirror como una extencion de navegador y colocarlo en un div h3>tipo ventana que 
+p>se inicie a mi voluntad
+li>mejorar mi menu universal
+li>hacer un traductor 
+li>hacer un diccionario
+
+p>hacer programa de listas que se guarden en el servidor con una base de datos
+y se actualize en el cliente para saber el contenido descargado, por descargar, y tareas que quiero realizar
+
+date>10:34 a. m. 17/12/2017
+buscar fetch en es6
+
+date>10:08 a. m. 25/12/2017
+p>que es una monada en javascript, typos de monadas
+li>que son funtores en javascript, typos de funtores
+date>10:19 a. m. 25/12/2017
+combinadores en javascript
+date>10:55 a. m. 25/12/2017
+li>que es un efecto colateral
+li>que son efectos laterales
+date>1:38 p. m. 25/12/2017
+li>que son lambdas en programacion javascript
+date>1:46 p. m. 25/12/2017
+li>seguir el abismo de null block wordpress 
+y genveta
+date>1:50 p. m. 25/12/2017
+li>como trabajan call y apply en javascript
+date>11:44 a. m. 1/1/2018
+date>11:03 a.m. 08/05/2015
+li>matematicas discretas
+date>10:15 a.m. 09/02/2017
+li>buscar LEC POWER TRANSLATOR 2017 PARA WINDOWS 10
+
+date>11:10 a.m. 17/07/2017
+li>librerias javascript para resaltar texto
+
+date>11:33 a.m. 24/09/2017
+li>hacer una app de cronometro para ir mejorando en mi aprendisaje junto con un calendario y agenda offline
+
+date>11:48 a.m. 24/09/2017
+aprendiendo hacer aplicaciones que trabajen en segundo plano en windows y sobre sus registros
+
+date>7:31 a. m. 10/1/2018
+funciones built-in en javascript
+monkey-patching conceptos de programacion y en javascript
+
+date>7:20 a. m. 11/1/2018
+hacer aplicacion con web extencion que cuando una ruta este en htdocs 
+hacer que tenga la opcion mostrar de servidor
+date>10:52 a. m. 15/1/2018
+a que se conose como monkey monkey patch
+date>8:01 p. m. 17/1/2018
+nombres relevantes de javascript
+
+date>8:01 a. m. 8/2/2018
+primera de cori
+colecences 3-12
+date>9:11 p. m. 14/12/2017
+
+date>6:54 a. m. 2/3/2018
+descargar php documentacion oficial via servidor
+date>7:05 a. m. 2/3/2018
+instalar desde la consola de ubuntu o terminal
+date>9:41 a. m. 3/3/2018
+que es un mock en programacion
+date>2:40 p. m. 3/3/2018
+que es agnóstico en programacion
+date>2:45 p. m. 3/3/2018
+resumen de laravel
+fachadas,contenedores,midleware,contratos parte de la arquitectura de laravel sentido comun
+
+date>8:26 a. m. 26/3/2018
+D:\htdocs\utilitarios\miscript
+empezar otra vez con mis extenciones y dejarlas listas para poder usarla en cualquier pc
+miscript para recordar rapido
+y una app para colocar los codigos de otras paginas y adactarlos con codemirror y copy
+date>11:29 a. m. 28/3/2018
+net framework 4
+averiguar en wcpgames un windows actulizado con todo y mirar otrar alternativas
+
+date>7:06 a. m. 25/4/2018
+para que se usa %~dp0 en la consola de comandos 
+date>9:45 a. m. 1/5/2018
+Chris Tankersley tiene una publicación de blog muy útil sobre las herramientas que usa para desarrollar PHP usando Windows .
+http://www.ctankersley.com/2016/11/13/developing-on-windows-2016/
+date>10:09 a. m. 1/5/2018
+linea de comandos php 
+http://www.php.net/features.commandline.options
+date>8:28 a. m. 4/5/2018
+averiguar documentacion de docker y como functiona
+averiguar sobre la extencion .sh y como arrancar la pagina web de phpfig
+date>10:45 a. m. 6/5/2018
+mi cabeza revuelta
+-html5 con interfaces de usuario revisar estandares
+-trabajar con vainillajs o javascript a pelo
+-adactarme a vuejs
+-hacer una app con codemirror ya antes la he querido hacer
+-mirar que libreria me sirve para interfaces de usuario 
+-tooltip drag and drop facil
+-crecer los elementos html
+-adactarme a laravel
+-aprender bien php
+-patrones, estandares de codificacion, test, herramientas a utilizar
+date>7:15 a. m. 14/5/2018
+arrancando con vue para hacer la app de codemirror
+date>11:17 a. m. 14/5/2018
+buscar
+browserify vs youman
+webpack 2
+webpack 2 vs youman
+date>10:38 a. m. 24/5/2018
+como aumentar el tamaño de los archivos de medios en la configuracion en wordpress mas de 2megas
+date>8:08 a. m. 18/5/2018
+evernote portable para pc
+date>7:13 a. m. 18/5/2018
+keybindings de sublimetext en notepad++
+date>10:03 a. m. 25/5/2018
+aprender taquigrafia
+date>11:53 a. m. 26/5/2018
+descargar documentacion oficial de laravel y que tenga la informacion de vuejs que para eso es que lo estoy estudiando
+como hacer mas fluido este cel lanix
+grub rescue
+date>5:02 p. m. 16/6/2018
+phpninja como extencion de firefox
+date>11:05 a. m. 28/6/2018
+lecturas y libros para dianik 
+como hacer que un niño lea correctamente por iniciativa propia
+como enseñar a un niño hacer un buen estudiante orientarlo correctamente
+
+date>10:39 a. m. 7/7/2018
+*--------------------------------------------
+PHP Doc Parser php 7 aplicaciones firefox sublimetext y notepad++
+https://github.com/martinsik/php-doc-parser
+*--------------------------------------------
+http://ahoj.io/
+
+date>9:52 a. m. 13/7/2018
+
+date>8:21 a. m. 30/7/2018
+diccionarios o transladores de ingles hechos en php 
+date>6:20 p. m. 30/7/2018
+descargar manual de php la manera correcta
+date>7:18 p. m. 10/10/2018
+buscar https://stripe.com/
+date>7:44 a. m. 12/10/2018
+descargar symfony y estudiar cada uno de sus componenetes para ver como trabajan en laravel y asi 
+poder programar mejor mis propias apps
+date>9:40 a. m. 20/10/2018
+como trabajar con laravel mix videos youtube
+date>9:42 a. m. 20/10/2018
+leer y aprender sobre  oauth2 autenticacion de usuarios
+https://github.com/thephpleague/oauth2-server
+date>10:29 a. m. 3/10/2018
+
+date>10:39 a. m. 3/10/2018
+php cronologia,quien lo creo personas relevantes en el lenguaje
+javascript historia quien lo creo
+date>11:24 a. m. 5/10/2018
+hacer chat audio y video llamadas desde mi servidor con php y laravel
+date>2:00 p. m. 5/10/2018
+como obtener los attributos de un nodo xml desde php
+date>1:20 p. m. 7/10/2018
+como enviar un texto formateado desde la etiqueta textarea por ajax por el metodo
+post y setRequestHeader y que php lo interprete tal cual
+date>8:50 p. m. 7/10/2018
+quede trabajando en el interprete php en codemirror por el metodo post
+no carga los elementos de ajax en varias lineas
+date>9:13 a. m. 13/10/2018
+Digging Deeper
+date>7:22 p. m. 18/10/2018
+putin y donal trump
+caida del dolar
+caida del dolar profecia
+
+date>9:12 a. m. 19/10/2018
+que paso con backbone
+date>9:13 a. m. 19/10/2018
+
+date>1:10 p. m. 16/11/2018
+como exportar una tabla de una base de datos con eloquen en laravel 5 y que se pueda colocar en los seeders

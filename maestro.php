@@ -1,0 +1,51 @@
+		<?php 
+		$maestro=json_decode(file_get_contents('maestro.txt'));
+		if($maestro.maestro!=false): 
+		?>
+			<script src="js/helpers.js"></script>
+			<script src="js/axios.min.js"></script>
+			<script src="js/vivus.min.js"></script>
+			<script src="CodeMirror-master/lib/codemirror.js"></script>
+			<script src="CodeMirror-master/addon/display/fullscreen.js"></script>
+			<script src="CodeMirror-master/addon/edit/closebrackets.js"></script>
+			<script src="CodeMirror-master/addon/edit/closetag.js"></script>
+			<script src="CodeMirror-master/addon/edit/matchbrackets.js"></script>
+			<script src="CodeMirror-master/addon/hint/javascript-hint.js"></script>
+			<script src="CodeMirror-master/addon/hint/show-hint.js"></script>
+			<script src="CodeMirror-master/addon/hint/anyword-hint.js"></script>
+			<script src="CodeMirror-master/addon/search/searchcursor.js"></script>
+			<script src="CodeMirror-master/addon/search/search.js"></script>
+			<script src="CodeMirror-master/addon/dialog/dialog.js"></script>
+			<script src="CodeMirror-master/addon/comment/comment.js"></script>
+			<script src="CodeMirror-master/addon/selection/active-line.js"></script>
+			<script src="CodeMirror-master/addon/wrap/hardwrap.js"></script>
+			<script src="CodeMirror-master/addon/fold/foldcode.js"></script>
+  			<script src="CodeMirror-master/addon/fold/foldgutter.js"></script>
+  			<script src="CodeMirror-master/addon/fold/brace-fold.js"></script>
+  			<script src="CodeMirror-master/addon/fold/xml-fold.js"></script>
+  			<script src="CodeMirror-master/addon/fold/markdown-fold.js"></script>
+  			<script src="CodeMirror-master/addon/fold/comment-fold.js"></script>
+			<script src="CodeMirror-master/mode/javascript/javascript.js"></script>
+			<script src="CodeMirror-master/mode/xml/xml.js"></script>
+			<script src="CodeMirror-master/mode/css/css.js"></script>
+			<script src="CodeMirror-master/mode/htmlmixed/htmlmixed.js"></script>
+			<script src="CodeMirror-master/mode/markdown/markdown.js"></script>
+			<script src="CodeMirror-master/mode/clike/clike.js"></script>
+			<script src="CodeMirror-master/addon/selection/selection-pointer.js"></script>
+			<script src="CodeMirror-master/mode/htmlmixed/htmlmixed.js"></script>
+			<script src="CodeMirror-master/mode/php/php.js"></script>
+			<script src="CodeMirror-master/keymap/sublime.js"></script>
+			<script src="js/vue.global.js"></script>
+			<script src="js/jquery-2.0.3.js"></script>
+			<script src="js/lodash.js"></script>
+			<script src="js/draganddrop.js"></script>
+			<script src="js/miajax.js"></script>
+			<script src="js/config.js"></script>
+			<script src="js/cargarcodemirroranimada.js"></script>
+			<script src="js/contextmenu.js"></script>
+			<script src="js/nota.js"></script>
+			<script src="js/miselaneos.js"></script>
+			<script src="js/componente.js"></script>
+		<?php else: ?>
+			<script src="js/maestro.js"></script>
+		<?php endif(); ?>

@@ -1,0 +1,37 @@
+<!doctype html>
+
+<title>CodeMirror: Full Screen Editing</title>
+<meta charset="utf-8"/>
+<link rel=stylesheet href="../doc/docs.css">
+
+<link rel="stylesheet" href="../lib/codemirror.css">
+<link rel="stylesheet" href="../addon/display/fullscreen.css">
+<link rel="stylesheet" href="../theme/night.css">
+<script src="../lib/codemirror.js"></script>
+<script src="../mode/xml/xml.js"></script>
+<script src="../addon/display/fullscreen.js"></script>
+
+
+<textarea id="code" name="code" rows="5">
+      <script>
+          var uno = 1, obj = {};
+          let alcance = 'variable de alcance de es6'
+      </script>
+</textarea>
+
+
+  <script>
+        editor1 = document.querySelector("#code");
+    var editor = CodeMirror.fromTextArea(editor1, {
+      lineNumbers: true,
+      theme: "night",
+      extraKeys: {
+        "F11": function(cm) {
+          cm.setOption("fullScreen", !cm.getOption("fullScreen"));
+        },
+        "Esc": function(cm) {
+          if (cm.getOption("fullScreen")) cm.setOption("fullScreen", false);
+        }
+      }
+    });
+  </script>

@@ -1,0 +1,13 @@
+mi editor codemirror es un id creado por dr bajo lic de codemirror lib y escrito en javascrip y php acontinuacion se muestra una descripcion de como esta extructurado el id para posibles cambios y uso en las extenciones del mismo ya que deseo ampliar su uso
+
+ademas tiene unos componentes autonomos que se pueden usar en otras apps con unos lijeros cambios extructurales
+
+ejemp:
+el explorador esta independiente solo tienes que colocar la ruta
+interfaz.php
+todoapp.php independiente
+codemirror es independiente pero sin el explorador no trabaja bien para ver los archivos
+el view es independiente
+helpers es independiente
+
+

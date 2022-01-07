@@ -1,0 +1,1 @@
+var uno =1,dos=dos,tres = function(){alert('hello word')},cuatro='string',cinco='ya me aburri';

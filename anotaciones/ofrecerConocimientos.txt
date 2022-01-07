@@ -1,0 +1,54 @@
+Quieres aprender desarrollo web
+
+
+Aprende sistemas operativos y sus herramientas para el desarrollo
+Consola de comando
+Registros para manejo avanzado del sistema solo de uso opcional
+Aprende frontend y backend
+frontend
+html,css,javascript
+herramientas
+Bower
+Grunt
+Yeoman
+Browserify ********************
+Webpack*****************
+JavaScript con es6
+backend
+php
+poo programacion a objetos
+herramientas
+composer
+frameworks
+laravel
+
+Patrones de diseño en javascript y php
+Test son necesarios actitud del alumno
+
+Aprende a programar 
+Iníciate en el desarrollo de tecnologías web
+Aprende con nosotros y nosotros contigo 
+Nos adaptamos a tus necesidades y a tus conocimientos la idea es que aprendas y sepas que es lo que 
+Quieres.
+Nosotros descubrimos que lo que queremos es enseñar y organizar mostrar la manera en que aprendemos
+Y llegar al nivel de los mejores en la materia
+Y tú que es lo que quieres
+
+aprende a programar desde 0
+es una tarea dura pero no imposible lo importante es tener aptitud y muchas ganas de querer iniciarte en este mundo
+hacemos un pensun justo para ti
+
+clases semi presenciales via skype o hangouts
+si estas en cucuta o norte de santander podemos hacer una clase presencial con tus equipos o en un centro informatico de tu preferencia
+
+medios de pago 
+jjpita wester union recargas tygo claro movistar
+con sus respectivos codigos de pago
+
+las clases iniciales y video conferencia tienen un costo de 10000 pesos la hora si no quedas satisfecho con lo que te estamos ofreciendo 
+te devolvemos el dinero.
+
+el tiempo es dinero y el conocimiento tambien invierte en tu futuro.
+
+iniciate con nosotros y si tienes tiempo en esto aprendamos juntos. asi es la web.
+

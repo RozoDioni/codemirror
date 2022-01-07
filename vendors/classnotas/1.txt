@@ -1,0 +1,10 @@
+.LOG
+h1>encabezado de nivel uno
+h2>encabezado de nivel dos
+p>parrafo esta es la coincidencia pero no deberia borrar p
+img>http://localhost:8000/imagenes/cpu.jpg
+9:56 a. m. 22/11/2018
+p> otro parrafo mas
+h3> encabezado nivel 3
+p>enrealidad la app notas es solo para notas no deberia tener div pero en el futuro seria bueno incorporar otras etiquetas y un mejor rendimiento
+12:00 p.m. 21/09/2019

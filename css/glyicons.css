@@ -1,0 +1,81 @@
+.ico {
+    width: 28px;
+    height: 28px;
+   
+    float: left;
+    background-repeat: no-repeat;
+    background-image: url(../imagenes/glyicons.svg);
+    background-size: 500% 500%;
+}
+
+.sublime {background-position-x: 0;}
+.consola {background-position-x: 25%;}
+.carver  {background-position-x: 50%;}
+.carinc  {background-position-x: 75%;}
+.carhor	 {background-position-x: 100%;}
+.flebd	 {background-position-x: 0%;background-position-y: 25%;}
+	.flebd:hover	{background-position-x: 50%;background-position-y: 25%;}
+.flebi   {background-position-x: 25%;background-position-y: 25%;}
+	.flebi:hover    {background-position-x: 75%;background-position-y: 25%;}
+.flerd   {background-position-x: 50%;background-position-y: 25%;}
+	.flerd:hover   {background-position-x: 0%;background-position-y: 25%;}
+.fleri   {background-position-x: 75%;background-position-y: 25%;}
+	.fleri:hover   {background-position-x: 25%;background-position-y: 25%;}
+.flend   {background-position-x: 100%;background-position-y: 25%;}
+	.flend:hover   {background-position-x: 0%;background-position-y: 25%;}
+.flevd   {background-position-x: 0%;background-position-y: 50%;}
+	.flevd:hover   {background-position-x: 0%;background-position-y: 25%;}
+.masterpc{background-position-x: 25%;background-position-y: 50%;}
+.guardar{background-position-x: 50%;background-position-y: 50%;}
+.nuevo{
+	background-position-x: 75%;
+	background-position-y: 50%;
+	}
+
+.abrir{
+	background-position-x:100%;
+	background-position-y: 50%;
+	}
+
+.copiar{
+	background-position-x:0%;
+	background-position-y: 75%;
+}
+
+.cortar{
+	background-position-x:25%;
+	background-position-y: 75%;
+}
+
+.construir{
+	background-position-x:50%;
+	background-position-y: 75%;
+}
+.minimizar{
+	background-position-x:75%;
+	background-position-y: 75%;
+}
+.maximizar{
+	background-position-x:100%;
+	background-position-y: 75%;
+}
+.cerrar{
+	background-position-x:0%;
+	background-position-y: 100%;
+}
+.edit{
+	background-position-x:25%;
+	background-position-y: 100%;
+}
+.construirv{
+	background-position-x:50%;
+	background-position-y: 100%;
+}
+.plus{
+	background-position-x:75%;
+	background-position-y: 100%;
+}
+.plus:hover{
+	background-position-x:100%;
+	background-position-y: 100%;
+}

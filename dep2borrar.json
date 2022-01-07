@@ -1,0 +1,14 @@
+	{
+				"js":{"helpers":"js/helpers.js",
+			"dragandrop":"js/draganddrop.js",
+			"miajax":"js/miajax.js",
+			"config":"js/config.js",
+			"cargarcodemirroranimada":"js/cargarcodemirroranimada.js",
+			"contextmenu":"js/contextmenu.js",
+			"nota":"js/nota.js",
+			"miselaneos":"js/miselaneos.js",
+			"componente":"js/componente.js",
+			"click":"js/clickparatodos.js",
+			"ayudante":"js/ayudantelanzador.js"
+		}
+	}

@@ -1,0 +1,26 @@
+.LOG
+7:34 a. m. 19/11/2018
+h1>comencemos con la app notas
+p>esta app se trata de hacer un interprete de documentos de texto con php
+de manera que php procesa los documentos y luego los combierte en formato html con los
+estilos css de mi preferencia
+porque hago esta app
+*la razon es porque las notas las puedo ver en el block de notas de una manera muy rapida
+pero sin ningun formato, entonces si diseño esta app voy a poder ver las notas con un 
+estilo visual mucho mejor y podre colocarle imagenes y muchas otras cosas que con el block
+me seria imposible
+lo otro es que ya quiero ir viendo que tanto estoy programando y poder poner en uso lo
+aprendido
+con las practicas y cursos que he hecho poner la teoria en practica
+7:40 a. m. 19/11/2018
+aqui en esta carpeta estoy comenzando pero ya tengo una ruta en laravel5 y un controllador aun nada de codigo
+9:57 a. m. 22/11/2018
+la app notas ya me muestra los encabezados y los parrafos en formato html
+me falta tratar con las imagenes y las fechas 
+*falta empezar a trabajar con otras etiquetas diferentes
+*comenzar a colocar la app en una clase
+*si es posible usar mvc o vmmv
+5:10 p. m. 25/11/2018
+
+21:32 2019-10-18
+el formato aceptado para la fecha es 'H:i y-m-d'
